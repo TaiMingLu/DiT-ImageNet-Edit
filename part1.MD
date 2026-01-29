@@ -10,7 +10,7 @@ The Background Phase is meant to help you build a solid foundation on relevant t
 
 * You will receive a spreadsheet containing **30 papers**.
 * Select **15 papers** from that list of your interest and read through all of them during the Background Phase.
-* A reasonable pace is **5 papers per week**, and you can read more if you prefer.
+* A reasonable pace is **1 papers per week**, and you can read more if you prefer.
 * Focus on understanding:
 
   * what problem each paper is addressing,
